@@ -1,0 +1,53 @@
+{
+  "uid" : "7cd4bee0b09446da",
+  "name" : "makeOrderWithNoIngredients",
+  "historyId" : "createOrderTest:createOrderTest#makeOrderWithNoIngredients",
+  "time" : {
+    "duration" : 1015
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ffdd90ba86169a26",
+      "name" : "System out",
+      "source" : "ffdd90ba86169a26.txt",
+      "type" : "text/plain",
+      "size" : 283
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "createOrderTest"
+  }, {
+    "name" : "testClass",
+    "value" : "createOrderTest"
+  }, {
+    "name" : "package",
+    "value" : "createOrderTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7cd4bee0b09446da.json",
+  "parameterValues" : [ ]
+}
