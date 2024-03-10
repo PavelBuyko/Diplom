@@ -1,0 +1,121 @@
+[ {
+  "uid" : "a7b30a3f336356d1",
+  "name" : "logoClickDestinationTest",
+  "time" : {
+    "duration" : 6875
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5048c366c6055494",
+  "name" : "loginFromRegPageTest",
+  "time" : {
+    "duration" : 8098
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ceea1e169dbb7be",
+  "name" : "scrollToIngredientsTest",
+  "time" : {
+    "duration" : 18685
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "abbbc3b583e294be",
+  "name" : "NotAuthUserPersonalAccountButtonClickTest",
+  "time" : {
+    "duration" : 8077
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d27455a7a936b923",
+  "name" : "basicRegTest",
+  "time" : {
+    "duration" : 9208
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c293d9f6a1fc2a8",
+  "name" : "loginFromRecoverPasswordPageTest",
+  "time" : {
+    "duration" : 8336
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc0e71280a118342",
+  "name" : "ExitFromPersonalAccountClickTest",
+  "time" : {
+    "duration" : 10469
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d77ef607612eec8",
+  "name" : "scrollToSauceTest",
+  "time" : {
+    "duration" : 9530
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56c74025eccf3353",
+  "name" : "AuthUserPersonalAccountButtonClickTest",
+  "time" : {
+    "duration" : 9267
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4532b166ff410c5",
+  "name" : "scrollToBunTest",
+  "time" : {
+    "duration" : 8395
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b4a757527acd7e9",
+  "name" : "loginFromMainPageTest",
+  "time" : {
+    "duration" : 13710
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29735c7d73d778cc",
+  "name" : "basicLoginTest",
+  "time" : {
+    "duration" : 10681
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa095e89ea679418",
+  "name" : "shortPasswordRegTest",
+  "time" : {
+    "duration" : 9828
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9aac3a7176b2c18",
+  "name" : "shortPasswordLoginTest",
+  "time" : {
+    "duration" : 8026
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec70472d9af8befb",
+  "name" : "constructorClickDestinationTest",
+  "time" : {
+    "duration" : 8609
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

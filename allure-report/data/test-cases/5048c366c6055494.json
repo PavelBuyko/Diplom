@@ -1,0 +1,53 @@
+{
+  "uid" : "5048c366c6055494",
+  "name" : "loginFromRegPageTest",
+  "historyId" : "LoginUiTest:LoginUiTest#loginFromRegPageTest",
+  "time" : {
+    "duration" : 8098
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "330b61c58d847a8f",
+      "name" : "System out",
+      "source" : "330b61c58d847a8f.txt",
+      "type" : "text/plain",
+      "size" : 276
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "LoginUiTest"
+  }, {
+    "name" : "testClass",
+    "value" : "LoginUiTest"
+  }, {
+    "name" : "package",
+    "value" : "LoginUiTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5048c366c6055494.json",
+  "parameterValues" : [ ]
+}

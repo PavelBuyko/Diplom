@@ -1,0 +1,53 @@
+{
+  "uid" : "8d77ef607612eec8",
+  "name" : "scrollToSauceTest",
+  "historyId" : "goToBurgerConstructorTypeTest:goToBurgerConstructorTypeTest#scrollToSauceTest",
+  "time" : {
+    "duration" : 9530
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "52ffdc5b9e9b7bd6",
+      "name" : "System out",
+      "source" : "52ffdc5b9e9b7bd6.txt",
+      "type" : "text/plain",
+      "size" : 312
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "goToBurgerConstructorTypeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "goToBurgerConstructorTypeTest"
+  }, {
+    "name" : "package",
+    "value" : "goToBurgerConstructorTypeTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8d77ef607612eec8.json",
+  "parameterValues" : [ ]
+}

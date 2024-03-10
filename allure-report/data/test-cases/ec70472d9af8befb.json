@@ -1,0 +1,53 @@
+{
+  "uid" : "ec70472d9af8befb",
+  "name" : "constructorClickDestinationTest",
+  "historyId" : "linksDestinationsTest:linksDestinationsTest#constructorClickDestinationTest",
+  "time" : {
+    "duration" : 8609
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9e2a0002746331c5",
+      "name" : "System out",
+      "source" : "9e2a0002746331c5.txt",
+      "type" : "text/plain",
+      "size" : 5902
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "linksDestinationsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "linksDestinationsTest"
+  }, {
+    "name" : "package",
+    "value" : "linksDestinationsTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec70472d9af8befb.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "fc0e71280a118342",
+  "name" : "ExitFromPersonalAccountClickTest",
+  "historyId" : "exitFromAccountTest:exitFromAccountTest#ExitFromPersonalAccountClickTest",
+  "time" : {
+    "duration" : 10469
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "372580efb718f8a6",
+      "name" : "System out",
+      "source" : "372580efb718f8a6.txt",
+      "type" : "text/plain",
+      "size" : 292
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "exitFromAccountTest"
+  }, {
+    "name" : "testClass",
+    "value" : "exitFromAccountTest"
+  }, {
+    "name" : "package",
+    "value" : "exitFromAccountTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fc0e71280a118342.json",
+  "parameterValues" : [ ]
+}
