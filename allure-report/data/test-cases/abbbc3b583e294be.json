@@ -1,0 +1,53 @@
+{
+  "uid" : "abbbc3b583e294be",
+  "name" : "NotAuthUserPersonalAccountButtonClickTest",
+  "historyId" : "linksDestinationsTest:linksDestinationsTest#NotAuthUserPersonalAccountButtonClickTest",
+  "time" : {
+    "duration" : 8077
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9e2a0002746331c5",
+      "name" : "System out",
+      "source" : "9e2a0002746331c5.txt",
+      "type" : "text/plain",
+      "size" : 5902
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "linksDestinationsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "linksDestinationsTest"
+  }, {
+    "name" : "package",
+    "value" : "linksDestinationsTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "abbbc3b583e294be.json",
+  "parameterValues" : [ ]
+}

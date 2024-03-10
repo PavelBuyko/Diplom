@@ -1,0 +1,258 @@
+{
+  "LoginUiTest:LoginUiTest#loginFromMainPageTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3b4a757527acd7e9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 13710
+      }
+    } ]
+  },
+  "linksDestinationsTest:linksDestinationsTest#logoClickDestinationTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a7b30a3f336356d1",
+      "status" : "passed",
+      "time" : {
+        "duration" : 6875
+      }
+    } ]
+  },
+  "goToBurgerConstructorTypeTest:goToBurgerConstructorTypeTest#scrollToSauceTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8d77ef607612eec8",
+      "status" : "passed",
+      "time" : {
+        "duration" : 9530
+      }
+    } ]
+  },
+  "LoginUiTest:LoginUiTest#loginFromRegPageTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5048c366c6055494",
+      "status" : "passed",
+      "time" : {
+        "duration" : 8098
+      }
+    } ]
+  },
+  "exitFromAccountTest:exitFromAccountTest#ExitFromPersonalAccountClickTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fc0e71280a118342",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10469
+      }
+    } ]
+  },
+  "goToBurgerConstructorTypeTest:goToBurgerConstructorTypeTest#scrollToIngredientsTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2ceea1e169dbb7be",
+      "status" : "passed",
+      "time" : {
+        "duration" : 18685
+      }
+    } ]
+  },
+  "RegistrationUiTest:RegistrationUiTest#basicRegTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d27455a7a936b923",
+      "status" : "passed",
+      "time" : {
+        "duration" : 9208
+      }
+    } ]
+  },
+  "LoginUiTest:LoginUiTest#loginFromRecoverPasswordPageTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7c293d9f6a1fc2a8",
+      "status" : "passed",
+      "time" : {
+        "duration" : 8336
+      }
+    } ]
+  },
+  "LoginUiTest:LoginUiTest#basicLoginTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "29735c7d73d778cc",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10681
+      }
+    } ]
+  },
+  "LoginUiTest:LoginUiTest#shortPasswordLoginTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c9aac3a7176b2c18",
+      "status" : "passed",
+      "time" : {
+        "duration" : 8026
+      }
+    } ]
+  },
+  "RegistrationUiTest:RegistrationUiTest#shortPasswordRegTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aa095e89ea679418",
+      "status" : "passed",
+      "time" : {
+        "duration" : 9828
+      }
+    } ]
+  },
+  "linksDestinationsTest:linksDestinationsTest#AuthUserPersonalAccountButtonClickTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "56c74025eccf3353",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <p class=\"AppHeader_header__linkText__3q_va ml-2\">...</p> is not clickable at point (841, 44). Other element would receive the click: <div class=\"Modal_modal_overlay__x2ZCr\"></div>\n  (Session info: chrome=122.0.6261.112)\nBuild info: version: '4.16.1', revision: '9b4c83354e'\nSystem info: os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '11.0.21'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [353d1949d4e84365beb90ea5f7e820d6, clickElement {id=f.BE667B7A88A1098D30D6E9502E5BE3EC.d.EF12DC8188A3E000F335FD77FB01AF7C.e.67}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.112, chrome: {chromedriverVersion: 122.0.6261.111 (9d4c1072da6..., userDataDir: C:\\Users\\paveb\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64365}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64365/devtoo..., se:cdpVersion: 122.0.6261.112, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on windows (353d1949d4e84365beb90ea5f7e820d6)] -> xpath: //*[@id='root']/div/header/nav/a/p]\nSession ID: 353d1949d4e84365beb90ea5f7e820d6",
+      "time" : {
+        "duration" : 9267
+      }
+    } ]
+  },
+  "goToBurgerConstructorTypeTest:goToBurgerConstructorTypeTest#scrollToBunTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4532b166ff410c5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 8395
+      }
+    } ]
+  },
+  "linksDestinationsTest:linksDestinationsTest#constructorClickDestinationTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ec70472d9af8befb",
+      "status" : "passed",
+      "time" : {
+        "duration" : 8609
+      }
+    } ]
+  },
+  "linksDestinationsTest:linksDestinationsTest#NotAuthUserPersonalAccountButtonClickTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "abbbc3b583e294be",
+      "status" : "passed",
+      "time" : {
+        "duration" : 8077
+      }
+    } ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "d27455a7a936b923",
+  "name" : "basicRegTest",
+  "historyId" : "RegistrationUiTest:RegistrationUiTest#basicRegTest",
+  "time" : {
+    "duration" : 9208
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "97a131f4d42eb17f",
+      "name" : "System out",
+      "source" : "97a131f4d42eb17f.txt",
+      "type" : "text/plain",
+      "size" : 290
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "RegistrationUiTest"
+  }, {
+    "name" : "testClass",
+    "value" : "RegistrationUiTest"
+  }, {
+    "name" : "package",
+    "value" : "RegistrationUiTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d27455a7a936b923.json",
+  "parameterValues" : [ ]
+}

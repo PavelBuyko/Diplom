@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: goToBurgerConstructorTypeTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 36.616 s - in goToBurgerConstructorTypeTest

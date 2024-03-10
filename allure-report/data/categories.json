@@ -1,0 +1,24 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "element click intercepted: Element <p class=\"AppHeader_header__linkText__3q_va ml-2\">...</p> is not clickable at point (841, 44). Other element would receive the click: <div class=\"Modal_modal_overlay__x2ZCr\"></div>\n  (Session info: chrome=122.0.6261.112)\nBuild info: version: '4.16.1', revision: '9b4c83354e'\nSystem info: os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '11.0.21'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [353d1949d4e84365beb90ea5f7e820d6, clickElement {id=f.BE667B7A88A1098D30D6E9502E5BE3EC.d.EF12DC8188A3E000F335FD77FB01AF7C.e.67}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.112, chrome: {chromedriverVersion: 122.0.6261.111 (9d4c1072da6..., userDataDir: C:\\Users\\paveb\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64365}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64365/devtoo..., se:cdpVersion: 122.0.6261.112, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on windows (353d1949d4e84365beb90ea5f7e820d6)] -> xpath: //*[@id='root']/div/header/nav/a/p]\nSession ID: 353d1949d4e84365beb90ea5f7e820d6",
+      "children" : [ {
+        "name" : "AuthUserPersonalAccountButtonClickTest",
+        "uid" : "56c74025eccf3353",
+        "parentUid" : "3b1d1ab68a9feed4c0d3bf19cd5d2451",
+        "status" : "broken",
+        "time" : {
+          "duration" : 9267
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3b1d1ab68a9feed4c0d3bf19cd5d2451"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}
