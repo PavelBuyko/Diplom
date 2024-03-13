@@ -1,0 +1,53 @@
+{
+  "uid" : "7837c00d87c70a06",
+  "name" : "makeOrderWithInvalidIngredient",
+  "historyId" : "createOrderTest:createOrderTest#makeOrderWithInvalidIngredient",
+  "time" : {
+    "duration" : 2444
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ffdd90ba86169a26",
+      "name" : "System out",
+      "source" : "ffdd90ba86169a26.txt",
+      "type" : "text/plain",
+      "size" : 283
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "createOrderTest"
+  }, {
+    "name" : "testClass",
+    "value" : "createOrderTest"
+  }, {
+    "name" : "package",
+    "value" : "createOrderTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7837c00d87c70a06.json",
+  "parameterValues" : [ ]
+}
